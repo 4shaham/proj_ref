@@ -27,3 +27,13 @@
  .register{
      color: rgb(255, 0, 0);
  }
+ .sh{
+    border-color: red;
+    border-style: solid;
+ }
+
+ .sha{
+    border-width:2px;
+    border-style:  solid;
+    border-color: red;
+ }
